@@ -33,7 +33,8 @@ jobs:
 
     - name: Run unit tests
       run: |
-        pytest --cov --cov-report=xml || echo "⚠️  (no tests yet)"
+        pytest --cov --cov-report=xml pytest --cov --cov-report=xml
+
 
     - name: Upload coverage to summary
       if: always()
