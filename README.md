@@ -1,24 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jack Evertzberg Development</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta name="description" content="Explore the Jack Evertzberg development powered by the PISKA GPT AI ecosystem. Download GPT directories and connect with AI infrastructure for investment, planning, and stakeholder innovation.">
+  <meta property="og:title" content="Jack Evertzberg Development">
+  <meta property="og:description" content="AI-Powered Development Project from Curaçao — Featuring PISKA GPT Agents">
+  <meta property="og:image" content="assets/evertzberg_banner.jpg">
+  <meta property="og:type" content="website">
+</head>
+<body>
+  <header>
+    <h1>Jack Evertzberg Development Project</h1>
+    <p>Welcome to the digital ecosystem supporting Curaçao's premium development initiative.</p>
+    <p><a href="https://github.com/sahidattaf/jack-evertzberg/releases/latest">
+      <img src="https://img.shields.io/github/v/release/sahidattaf/jack-evertzberg?color=brightgreen" alt="Latest Release">
+    </a></p>
+  </header>
 
-# 🏗️ Jack Evertzberg Development
+  <main>
+    <section class="hero-banner">
+      <img src="assets/evertzberg_banner.jpg" alt="Jack Evertzberg AI Vision">
+      <h2>Real Estate Reinvented by AI</h2>
+      <p>Powered by PISKA GPT | Curaçao’s first AI-driven development model</p>
+    </section>
 
-Welcome to the official GitHub repository for the **Jack Evertzberg** real estate development.
+    <section class="about-project">
+      <h2>🏗️ Jack Evertzberg Development</h2>
+      <h3>Redefining Luxury in Curaçao</h3>
+      <p>The Jack Evertzberg development is a visionary real estate project aiming to blend modern luxury with Caribbean charm. Built with innovation and community at its core, this project is set to transform the landscape of Curaçao.</p>
+      <ul>
+        <li>🌴 Beachfront and urban design fusion</li>
+        <li>🏘️ Eco-conscious smart properties</li>
+        <li>💼 Integrated business + leisure district</li>
+      </ul>
+      <p>Follow our journey and be part of a legacy in the making.</p>
+      <p><strong>Created by Sahid J. Attaf • <a href="mailto:sahidattaf@gmail.com">Contact Us</a></strong></p>
+    </section>
 
-## 🌴 Vision
+    <section id="gpt-directory" class="promo-strip">
+      <h3>📘 Explore Our AI GPT Directory</h3>
+      <p>Discover all smart GPT agents powering our development and outreach strategy.</p>
+      <a href="PISKA_GPT_Directory_by_SahidAttaf.pdf" target="_blank">📥 Download Full Directory (PDF)</a><br>
+      <a href="Piska_GPT_Directory_by_SahidAttaf.md" target="_blank">📂 View Directory (Markdown)</a>
+    </section>
 
-A luxurious, eco-conscious real estate experience built in Curaçao, blending innovation, smart technology, and Caribbean charm.
+    <section class="cta">
+      <h3>🤝 Partner With Us</h3>
+      <p>Interested in investing, collaborating, or contributing to the Jack Evertzberg vision?</p>
+      <a href="mailto:sahidattaf@gmail.com?subject=Jack%20Evertzberg%20Partnership">📩 Get in Touch</a>
+    </section>
 
-## 🚀 Features
+    <section class="launch-visuals">
+      <h3>🎨 Visuals for Global Launch</h3>
+      <p>Access downloadable promotional assets for LinkedIn, Instagram, and investor decks.</p>
+      <a href="media/launch_kit.zip" target="_blank">📦 Download Visual Launch Kit</a>
+      <p><em>Also available in the <a href="https://github.com/sahidattaf/jack-evertzberg#-visual-launch-kit" target="_blank">README section</a> of our GitHub repository: 
+        <a href="https://sahidattaf.github.io/jack-evertzberg/media/launch_kit.zip" target="_blank">📦 Direct Download</a></em></p>
+    </section>
+  </main>
 
-- Smart homes and commercial spaces
-- Green tech and sustainability focus
-- Community-centered planning
+  <footer>
+    <p>Created by Sahid J. Attaf – <a href="https://t.me/AISAHID_BOT" target="_blank">Telegram: @AISAHID_BOT</a></p>
+    <p>Email: <a href="mailto:sahidattaf@gmail.com">sahidattaf@gmail.com</a> | WhatsApp: <a href="https://wa.me/59995230683">+5999 5230683</a></p>
+  </footer>
+</body>
+</html>
 
-## 📄 Live Site
 
 👉 [Landing Page](https://sahidattaf.github.io/jack-evertzberg/)
 
-## 📬 Contact
-
-Sahid J. Attaf  
-📧 sahidattaf@gmail.com  
-📲 +5999 5230683 / +5999 6601445
