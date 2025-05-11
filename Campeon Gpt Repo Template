@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,16 +19,30 @@
   </header>
 
   <main>
-    <section class="intro">
-      <h2>Project Overview</h2>
-      <p>This project integrates cutting-edge AI through the PISKA GPT Suite to streamline investment, legal, planning, and stakeholder engagement workflows.</p>
+    <section class="hero-banner">
+      <img src="assets/evertzberg_banner.jpg" alt="Jack Evertzberg AI Vision">
+      <h2>Real Estate Reinvented by AI</h2>
+      <p>Powered by PISKA GPT | Curaçao’s first AI-driven development model</p>
+    </section>
+
+    <section class="about-project">
+      <h2>🏗️ Jack Evertzberg Development</h2>
+      <h3>Redefining Luxury in Curaçao</h3>
+      <p>The Jack Evertzberg development is a visionary real estate project aiming to blend modern luxury with Caribbean charm. Built with innovation and community at its core, this project is set to transform the landscape of Curaçao.</p>
+      <ul>
+        <li>🌴 Beachfront and urban design fusion</li>
+        <li>🏘️ Eco-conscious smart properties</li>
+        <li>💼 Integrated business + leisure district</li>
+      </ul>
+      <p>Follow our journey and be part of a legacy in the making.</p>
+      <p><strong>Created by Sahid J. Attaf • <a href="mailto:sahidattaf@gmail.com">Contact Us</a></strong></p>
     </section>
 
     <section id="gpt-directory" class="promo-strip">
       <h3>📘 Explore Our AI GPT Directory</h3>
       <p>Discover all smart GPT agents powering our development and outreach strategy.</p>
-      <a href="PISKA_GPT_Directory.pdf" target="_blank">📥 Download Full Directory (PDF)</a><br>
-      <a href="PISKA_GPT_Directory.md" target="_blank">📂 View Directory (Markdown)</a>
+      <a href="PISKA_GPT_Directory_by_SahidAttaf.pdf" target="_blank">📥 Download Full Directory (PDF)</a><br>
+      <a href="Piska_GPT_Directory_by_SahidAttaf.md" target="_blank">📂 View Directory (Markdown)</a>
     </section>
 
     <section class="cta">
