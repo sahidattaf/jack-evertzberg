@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jack Evertzberg Development</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta name="description" content="Explore the Jack Evertzberg development powered by the PISKA GPT AI ecosystem. Download GPT directories and connect with AI infrastructure for investment, planning, and stakeholder innovation.">
+  <meta property="og:title" content="Jack Evertzberg Development">
+  <meta property="og:description" content="AI-Powered Development Project from Curaçao — Featuring PISKA GPT Agents">
+  <meta property="og:image" content="assets/evertzberg_banner.jpg">
+  <meta property="og:type" content="website">
+</head>
+<body>
+  <header>
+    <h1>Jack Evertzberg Development Project</h1>
+    <p>Welcome to the digital ecosystem supporting Curaçao's premium development initiative.</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Project Overview</h2>
+      <p>This project integrates cutting-edge AI through the PISKA GPT Suite to streamline investment, legal, planning, and stakeholder engagement workflows.</p>
+    </section>
+
+    <section id="gpt-directory" class="promo-strip">
+      <h3>📘 Explore Our AI GPT Directory</h3>
+      <p>Discover all smart GPT agents powering our development and outreach strategy.</p>
+      <a href="PISKA_GPT_Directory_by_SahidAttaf.pdf" target="_blank">📥 Download Full Directory (PDF)</a><br>
+      <a href="Piska_GPT_Directory_by_SahidAttaf.md" target="_blank">📂 View Directory (Markdown)</a>
+    </section>
+
+    <section class="cta">
+      <h3>🤝 Partner With Us</h3>
+      <p>Interested in investing, collaborating, or contributing to the Jack Evertzberg vision?</p>
+      <a href="mailto:sahidattaf@gmail.com?subject=Jack%20Evertzberg%20Partnership">📩 Get in Touch</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>Created by Sahid J. Attaf – <a href="https://t.me/AISAHID_BOT" target="_blank">Telegram: @AISAHID_BOT</a></p>
+    <p>Email: <a href="mailto:sahidattaf@gmail.com">sahidattaf@gmail.com</a> | WhatsApp: <a href="https://wa.me/59995230683">+5999 5230683</a></p>
+  </footer>
+</body>
+</html>
