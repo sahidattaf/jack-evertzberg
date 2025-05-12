@@ -7,7 +7,7 @@ Explore the specialized GPT agents crafted for real estate, finance, legal, logi
 |---------------------------------------|-------------------------------------------|-------------|
 | **Piska InvestorAI – Jack Evertzberg** | Multilingual investor outreach             | [🔗 Launch](https://chat.openai.com/g/g-abc123) |
 | **Piska Planner**                      | Real-time planning & assistant             | [🔗 Launch](https://chat.openai.com/g/g-def456) |
-| **Piska ShareHolder**                 | Legal & real estate advisor               | [🔗 Launch](https://chat.openai.com/g/g-ghi789) |
+| **Piska ShareHolder**                 | Legal & real estate advisor               | [🔗 Launch] https://chatgpt.com/g/g-67bf2a6de9f08191b0296a5c215a2f3f-piska-shareholder
 | **Piska StakeHolders**               | Governance rulebook GPT                   | [🔗 Launch](https://chat.openai.com/g/g-hub101) |
 | **Piska Data Fraud Detector**        | ML assistant for fraud risk detection     | [🔗 Launch](https://chat.openai.com/g/g-data901) |
 | **Piska Quality Assurance**          | QA expert for hospitality & real estate   | [🔗 Launch](https://chat.openai.com/g/g-qa888) |
