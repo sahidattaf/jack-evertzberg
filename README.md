@@ -69,9 +69,9 @@
 </body>
 </html>
 
- Dwnspark PiskaInvestorAI: Capital Scout  https://www.genspark.ai/spark?id=b0756324-b348-4e3f-b12c-623ac0e23e52
+ Genspark PiskaInvestorAI: Capital Scout  https://www.genspark.ai/spark?id=b0756324-b348-4e3f-b12c-623ac0e23e52
 
- Dwnspark Nasterplan   https://www.genspark.ai/spark?id=7439bc6a-b9f3-4fa5-aaf4-b894250201c7
+ Genspark Masterplan :  https://www.genspark.ai/spark?id=7439bc6a-b9f3-4fa5-aaf4-b894250201c7
 
  https://www.genspark.ai/spark?id=b0756324-b348-4e3f-b12c-623ac0e23e52
 
